@@ -1,0 +1,4 @@
+[1023/111031.213:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ismail\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0660ad5a-47d7-4b38-a6a6-370495cb9f92: The system cannot find the path specified. (0x3)
+[1023/111031.217:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1028/220444.934:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1029/084020.652:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
